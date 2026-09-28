@@ -2,7 +2,7 @@
 
 A high-performance, real-time chat application template architected for the edge. This project demonstrates a sophisticated implementation of Cloudflare Workers, Durable Objects, and Hono, paired with a modern React frontend.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/scaled-team/generated-app-20260928-193824)
 
 ## 🚀 Overview
 
@@ -76,7 +76,7 @@ Deploying to Cloudflare is seamless. The project is configured to bundle the fro
 
 ### Automated Deployment
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/scaled-team/generated-app-20260928-193824)
 
 ### Manual Deployment
 
